@@ -64,3 +64,6 @@ DELETE FROM HIVE_LOCKS WHERE hl_db='prod' and hl_table = 'products';
 * **Enter your own kafka brokers into [ConfigKafka.java](src/main/java/org/demir/utils/ConfigKafka.java).**
 
 * **Enter your Iceberg configs into the [ConfigIceberg.java](src/main/java/org/demir/utils/ConfigIceberg.java) file.**
+
+
+#### **[Best Practices for Deploying Apache Flink with High Availability on Kubernetes](https://medium.com/@ahmetfurkandemir/kubernetes-with-data-engineering-approach-6-best-practices-for-deploying-apache-flink-with-high-e3b9e67f8d87)**
