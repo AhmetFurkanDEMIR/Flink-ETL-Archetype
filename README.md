@@ -1,5 +1,7 @@
 # Flink-ETL-Archetype
 
+![img.png](img.png)
+
 #### **A project template that advocates standards around coding and design of ETL apps based on Flink, Java, Iceberg, MinIO, and Hive Metastore**
 
 #### **Requirements:**
